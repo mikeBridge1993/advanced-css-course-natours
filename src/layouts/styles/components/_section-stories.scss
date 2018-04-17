@@ -1,0 +1,8 @@
+.section-stories{
+  padding: 12rem 0 10rem 0;
+  position: relative;
+
+  @include respond(tab-port) {
+    padding: 10rem 0;
+  }
+}
